@@ -1,0 +1,4 @@
+"metadata:" 
+"  name: hello-world" 
+"spec:" 
+" replicas: 3" 
